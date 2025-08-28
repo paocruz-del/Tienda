@@ -1,0 +1,17 @@
+.categorias {
+    margin-top: 20px;
+}
+
+.categorias p {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.categorias ul {
+    list-style: disc inside;
+    margin-left: 10px;
+}
+
+.categorias li {
+    margin-bottom: 5px;
+}

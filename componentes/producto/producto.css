@@ -1,0 +1,15 @@
+.Productos {
+    margin-top: 20px;
+}
+
+.productos {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* colmna de mimo tmaño */
+    gap: 10px;
+}
+
+.Productos p {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
